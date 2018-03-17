@@ -1,0 +1,7 @@
+controller\ComputerController.class
+controller\RestFullComputerController.class
+model\Computer.class
+controller\ComputerPicUploadController.class
+model\Mobile.class
+model\AjaxModel.class
+controller\MobileController.class
